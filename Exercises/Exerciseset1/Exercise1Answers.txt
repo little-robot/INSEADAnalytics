@@ -1,0 +1,17 @@
+Optional: finance-related R repositories
+https://github.com/RunOpenCode/exchange-rate
+https://github.com/imanuelcostigan/dataonderivatives
+
+Part I: Statistics
+1. The Apple returns are requested in line 8, along with the SPY. The comments also give examples of other tickers that can be given.
+2. Unable to find this. Was searching for cumulative_apple and average_daily, etc but am unsure of how to find
+3. As mentioned in Q1, you could simply enter the ticker symbol for that company in addition to AAPL
+
+Part II: Simple Matrix Manipulations
+1. 
+
+Part III: Reproductibility and Customization
+1.
+
+Part IV: Read/Write .CSV files
+1.
