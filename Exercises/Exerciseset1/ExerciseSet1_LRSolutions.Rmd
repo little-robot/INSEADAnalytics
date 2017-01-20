@@ -92,7 +92,9 @@ pnl_plot(SPY)
 **Your Answers here:**
 <br>
 1. The Apple returns are requested in line 8, along with the SPY. The comments also give examples of other tickers that can be given.
+<br>
 2. What are the cumulative, average daily returns, and the standard deviation of the daily returns of Apple in the same period? They are the sum, the results of the function, and standard deviation is the variance of the daily data, respectively.
+<br>
 3. As mentioned in Q1, you could simply enter the ticker symbol for that company in addition to AAPL
 <br>
 
@@ -127,8 +129,9 @@ pnl_plot(portfolio)
 We can also transpose the matrix of returns to create a new "horizontal" matrix. Let's call this matrix (variable name) transposedData. We can do so using this command:  `transposedData = t(StockReturns)`. 
 
 #### Questions
-
+<br>
 1. What R commands can you use to get the number of rows and number of columns of the new matrix called transposedData?
+<br>
 2. Based on the help for the R function *apply* (`help(apply)`), can you create again the portfolio of S&P and Apple and plot the returns in a new figure below?
 
 **Your Answers here:**
