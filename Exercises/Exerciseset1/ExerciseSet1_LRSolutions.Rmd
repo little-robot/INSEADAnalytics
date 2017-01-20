@@ -134,6 +134,7 @@ We can also transpose the matrix of returns to create a new "horizontal" matrix.
 **Your Answers here:**
 <br>
 1. After defining transposedData, use nrow() and ncol() functions
+<br>
 2. 
 <br>
 
@@ -151,7 +152,9 @@ This is an important step and will get you to think about the overall process on
 
 **Your Answers here:**
 <br>
+1. Change the call to 2001-01-01 from 2005-01-01, the original input
 <br>
+2. 
 <br>
 <br>
 
